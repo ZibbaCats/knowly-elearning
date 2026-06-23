@@ -64,6 +64,7 @@ $result = $stmt->get_result();
                 <div class="shape-materi" style="border: 1px solid #E8EAED; padding: 25px; border-radius: 12px; background: white; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
                     <h3 style="color: #333; margin-bottom: 5px;"><?php echo htmlspecialchars($row['tittle_material']); ?></h3>
 
+
                     <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
 
                         <div style="display: flex; gap: 10px;">
